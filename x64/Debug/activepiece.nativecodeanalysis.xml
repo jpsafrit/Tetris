@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\patrick\source\repos\tetris\tetris</FILEPATH>
+      <FILENAME>activepiece.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'ActivePiece::y1' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>ActivePiece::{ctor}</FUNCTION>
+    <DECORATED>??0ActivePiece@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\patrick\source\repos\tetris\tetris</FILEPATH>
+      <FILENAME>activepiece.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'ActivePiece::y2' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>ActivePiece::{ctor}</FUNCTION>
+    <DECORATED>??0ActivePiece@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\patrick\source\repos\tetris\tetris</FILEPATH>
+      <FILENAME>activepiece.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'ActivePiece::x4' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>ActivePiece::{ctor}</FUNCTION>
+    <DECORATED>??0ActivePiece@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\patrick\source\repos\tetris\tetris</FILEPATH>
+      <FILENAME>activepiece.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'ActivePiece::y3' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>ActivePiece::{ctor}</FUNCTION>
+    <DECORATED>??0ActivePiece@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\patrick\source\repos\tetris\tetris</FILEPATH>
+      <FILENAME>activepiece.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'ActivePiece::x1' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>ActivePiece::{ctor}</FUNCTION>
+    <DECORATED>??0ActivePiece@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\patrick\source\repos\tetris\tetris</FILEPATH>
+      <FILENAME>activepiece.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'ActivePiece::x3' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>ActivePiece::{ctor}</FUNCTION>
+    <DECORATED>??0ActivePiece@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\patrick\source\repos\tetris\tetris</FILEPATH>
+      <FILENAME>activepiece.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'ActivePiece::y4' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>ActivePiece::{ctor}</FUNCTION>
+    <DECORATED>??0ActivePiece@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\patrick\source\repos\tetris\tetris</FILEPATH>
+      <FILENAME>activepiece.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'ActivePiece::x2' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>ActivePiece::{ctor}</FUNCTION>
+    <DECORATED>??0ActivePiece@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

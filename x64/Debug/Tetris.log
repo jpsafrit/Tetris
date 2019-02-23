@@ -1,0 +1,3 @@
+﻿  Playfield.cpp
+c:\users\patrick\source\repos\tetris\tetris\playfield.cpp(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris.vcxproj -> C:\Users\Patrick\source\repos\Tetris\Tetris\x64\Debug\Tetris.exe
